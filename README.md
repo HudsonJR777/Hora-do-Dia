@@ -1,7 +1,6 @@
 <div align="center" >
   <h1 align="center" >
-   <img width="60" src="https://e7.pngegg.com/pngimages/766/619/png-clipart-emoji-alarm-clocks-alarm-clock-time-emoticon.png"/>       
-     Projeto Hora do dia </h1> 
+  ⌚ - Projeto Hora do dia </h1> 
 </div>
 
 <h1>🚀 Tecnologias</h1>
