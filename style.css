@@ -1,0 +1,42 @@
+body {
+    font: normal 15pt Arial;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 100px;
+    overflow: hidden;
+    
+}
+
+header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.548);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+div {
+    text-align: center;
+    padding: 10px;
+}
