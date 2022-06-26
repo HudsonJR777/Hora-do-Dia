@@ -3,9 +3,15 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding: 100px;
-    overflow: hidden;
-    
+     overflow: hidden; 
+    height: 100vh;
+}
+
+#wrapper{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
 
 header {
@@ -39,4 +45,10 @@ img {
 div {
     text-align: center;
     padding: 10px;
+}
+
+@media( max-width: 564px){
+    section{
+        width: auto;
+    }
 }
